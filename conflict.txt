@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from BRANCH A 
+=======
+Line from BRANCH B 
+>>>>>>> branch-B
